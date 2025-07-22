@@ -1,5 +1,6 @@
-streamlit==1.22.0
-pandas==2.0.3
-numpy>=1.25.0  # Avoid versions that require distutils
-scikit-learn==1.3.0
-joblib==1.3.2
+streamlit
+pandas
+numpy
+joblib
+matplotlib
+seaborn
